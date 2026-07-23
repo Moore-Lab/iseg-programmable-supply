@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "iseg") (type "KiCad") (uri "${KIPRJMOD}/lib/iseg.kicad_sym") (options "") (descr "iseg APS programmable HV converter modules (project library)"))
+)
